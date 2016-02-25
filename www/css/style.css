@@ -128,7 +128,7 @@ nav img {
     background-color: #1b1d20;
     background: linear-gradient(to bottom,#4d5663,#282c30,#040405);
 }
-
+/*Menu_top*/
 .menu_top ul {
     position: relative;
 }
@@ -212,6 +212,7 @@ div {
 .navigate .find_disc {
     margin-right: -3px;
 }
+/*Aside_left*/
 aside {
     float: left;
     margin-left: 45px;
@@ -326,6 +327,7 @@ aside .bolts {
     position: absolute;
     top: 299px;
 }
+/*Center_panel*/
 .center_panel {
     float: left;
     width: 525px;
@@ -388,6 +390,7 @@ aside .bolts {
     font-weight: bold;
     color: #114165;
 }
+/*Aside_right*/
 .right_aside {
     float: right;
     display: inline-block;
@@ -467,6 +470,7 @@ form input[type=submit] {
     text-transform: uppercase;
     font-size: 11px;
 }
+/*Footer*/
 footer img {
     width: 676px;
     padding-left: 161px;
